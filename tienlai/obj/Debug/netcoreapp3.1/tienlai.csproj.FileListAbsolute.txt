@@ -1,0 +1,13 @@
+C:\Users\ronng\source\repos\tienlai\tienlai\bin\Debug\netcoreapp3.1\tienlai.exe
+C:\Users\ronng\source\repos\tienlai\tienlai\bin\Debug\netcoreapp3.1\tienlai.deps.json
+C:\Users\ronng\source\repos\tienlai\tienlai\bin\Debug\netcoreapp3.1\tienlai.runtimeconfig.json
+C:\Users\ronng\source\repos\tienlai\tienlai\bin\Debug\netcoreapp3.1\tienlai.runtimeconfig.dev.json
+C:\Users\ronng\source\repos\tienlai\tienlai\bin\Debug\netcoreapp3.1\tienlai.dll
+C:\Users\ronng\source\repos\tienlai\tienlai\bin\Debug\netcoreapp3.1\tienlai.pdb
+C:\Users\ronng\source\repos\tienlai\tienlai\obj\Debug\netcoreapp3.1\tienlai.csprojAssemblyReference.cache
+C:\Users\ronng\source\repos\tienlai\tienlai\obj\Debug\netcoreapp3.1\tienlai.AssemblyInfoInputs.cache
+C:\Users\ronng\source\repos\tienlai\tienlai\obj\Debug\netcoreapp3.1\tienlai.AssemblyInfo.cs
+C:\Users\ronng\source\repos\tienlai\tienlai\obj\Debug\netcoreapp3.1\tienlai.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\tienlai\tienlai\obj\Debug\netcoreapp3.1\tienlai.dll
+C:\Users\ronng\source\repos\tienlai\tienlai\obj\Debug\netcoreapp3.1\tienlai.pdb
+C:\Users\ronng\source\repos\tienlai\tienlai\obj\Debug\netcoreapp3.1\tienlai.genruntimeconfig.cache
